@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-Visit Miryoku, the full MERN stack application I developed as a solo project:
+Visit Miryoku, the full MERN stack application I developed as a solo project: <br>
 https://miryoku.onrender.com/
 
-Also check out these projects that I worked for:
+Also check out these projects that I worked for: <br>
 https://github.com/uygar-blgn/goaled
 
 - 🔭 My name is Mehmet Emin Avşar.
