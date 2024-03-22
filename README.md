@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-My personal website:
-[avsarcs.github.io](https://avsarcs.github.io/)
+Check out
+[Miryoku](https://miryoku.onrender.com/)
 
 - 🔭 My name is Mehmet Emin Avşar.
 - 🌱 I’m currently studying as a sophomore in Bilkent CS Faculty.
