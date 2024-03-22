@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Check out
-[Miryoku](https://miryoku.onrender.com/)
+[Miryoku](https://miryoku.onrender.com/), the MERN stack art sharing platform that I developed as a solo project.
 
 - 🔭 My name is Mehmet Emin Avşar.
 - 🌱 I’m currently studying as a sophomore in Bilkent CS Faculty.
