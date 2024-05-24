@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-Check out
-[Personal website](avsarcs.github.io)
+Check out my [personal website](https://avsarcs.github.io/). 
 
 - 🔭 My name is Mehmet Emin Avşar.
 - 🌱 I’m currently studying as a sophomore in Bilkent CS Faculty.
